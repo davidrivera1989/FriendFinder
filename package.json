@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Simple full stack app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrivera1989/FriendFinder.git"
+  },
+  "author": "David Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidrivera1989/FriendFinder"
+  },
+  "homepage": "https://github.com/davidrivera1989/FriendFinder",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
